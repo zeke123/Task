@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         startService(intent);
         Toast.makeText(this, "提交代码", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "提交代码", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "提交代码", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "提交代码", Toast.LENGTH_SHORT).show();
 
 
     }
