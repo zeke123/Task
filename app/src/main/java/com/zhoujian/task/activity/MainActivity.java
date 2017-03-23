@@ -18,8 +18,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Intent intent = new Intent(MainActivity.this, MyService.class);
         startService(intent);
-
-
         Toast.makeText(this, "提交代码", Toast.LENGTH_SHORT).show();
 
 
