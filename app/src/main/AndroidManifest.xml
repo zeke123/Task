@@ -18,6 +18,7 @@
         </activity>
 
         <service android:name=".service.MyService"/>
+
     </application>
 
 </manifest>

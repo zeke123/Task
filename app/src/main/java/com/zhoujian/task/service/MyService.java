@@ -9,7 +9,6 @@ import android.os.IBinder;
 import android.os.SystemClock;
 import android.util.Log;
 
-
 /**
  * Created by zhoujian on 2017/3/23.
  */
