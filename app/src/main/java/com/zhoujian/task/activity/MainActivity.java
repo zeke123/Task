@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         startService(intent);
 
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
     }
 }
